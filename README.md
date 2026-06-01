@@ -9,23 +9,39 @@
 [![由真格 Token Grant 资助](https://img.shields.io/static/v1?label=%E7%94%B1%E7%9C%9F%E6%A0%BC%20Token%20Grant&message=%E8%B5%84%E5%8A%A9&color=FF4D00&style=flat-square)](https://zhenfund.feishu.cn/share/base/form/shrcn1lAANF659o7EpWnxlR1VOh?sessionid=)
 
 > 🌏 **English version: [README.en.md](./README.en.md)**
+>
+> 📋 **改版记录: [CHANGELOG.md](./CHANGELOG.md)**
+
+> **⚠️ Fork 说明**: 本仓库 fork 自 [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)，在原版基础上新增了两种风格和点击翻页功能。详见 [CHANGELOG.md](./CHANGELOG.md)。
 
 一个适配 Claude Code / Codex 等 Agent 环境的网页 PPT 技能,用于生成**单文件 HTML 横向翻页 PPT**、PPT 配图和多平台封面。
 
-内置两套视觉系统:
+内置四套视觉系统:
 
 - **Style A: 电子杂志 × 电子墨水**。像 *Monocle* 贴上了代码,适合叙事、观点、分享、个人风格表达。
 - **Style B: 瑞士国际主义**。网格至上、单一高饱和锚点色、直角、发丝线、极致字号对比,适合事实、产品、分析、方法论表达。
+- **Style C: 日式侘寂**。和纸纹理 + 极细宋体 + 墨渍装饰 + 非对称留白,适合茶道、文学、传统文化、极简主义表达。（🆕 新增）
+- **Style D: 新丑主义**。超粗无衬线 + 3px 粗描边 + 贴纸标签 + 故意打破网格,适合音乐节、创意发布、反传统表达。（🆕 新增）
 
 > 由 [歸藏](https://x.com/op7418) 在"一人公司:被 AI 折叠的组织"、"一种新的工作方式"等线下分享中沉淀而成,踩过的每一个坑都写进了 `checklist.md`。
 
-**旧主题 · Style A 电子杂志风**
+**Style A 电子杂志风**
 
 ![Style A 电子杂志风效果展示](https://github.com/user-attachments/assets/5dc316a2-401c-4e37-9123-ea081b6ae470)
 
-**新主题 · Style B 瑞士国际主义**
+**Style B 瑞士国际主义**
 
 ![Style B 瑞士国际主义效果展示](https://github.com/user-attachments/assets/8960e78c-69bb-4b7e-aa95-6fad64b70314)
+
+**Style C 日式侘寂 🆕**
+
+> 和纸纹理 + 极细宋体 + 墨渍装饰 + 非对称留白。5 套主题:暖墨 / 枯山水 / 朱砂 / 青竹 / 月白。
+> 详见 [`references/themes-wabi.md`](./references/themes-wabi.md)
+
+**Style D 新丑主义 🆕**
+
+> 超粗无衬线 + 3px 粗描边 + 贴纸标签 + 色块装饰。4 套主题:经典 / 单色 / 莫兰迪 / 热力。
+> 详见 [`references/themes-brutal.md`](./references/themes-brutal.md)
 
 ## 30 秒开始
 
