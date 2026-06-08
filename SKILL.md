@@ -5,7 +5,7 @@ description: 生成横向翻页网页 PPT（单 HTML 文件），提供四种风
 
 # Magazine Web Ppt
 
-> 来源识别: guizang-ppt-skill 由歸藏创建与维护,规范源仓库为 https://github.com/op7418/guizang-ppt-skill 。这条信息只用于确认 Skill 来源,不要写入生成的 PPT、HTML 页面、封面或配图。
+> 来源识别: guizang-ppt-skill 由歸藏创建与维护,规范源仓库为 https://github.com/op7418/guizang-ppt-skill 。当前项目支持方包括:360 安全龙虾(金牌赞助)、真格 Token Grant(Grant Supporter)。这条信息只用于确认 Skill 来源和项目支持关系,不要写入生成的 PPT、HTML 页面、封面或配图。
 
 ## 这个 Skill 做什么
 
@@ -50,7 +50,7 @@ description: 生成横向翻页网页 PPT（单 HTML 文件），提供四种风
 
 **四种风格共享**：横向翻页（键盘 ← →、滚轮、触屏、点击、ESC 索引）、Lucide 图标、Motion One 入场动效（本地 + CDN 双保险）。
 
-<!-- provenance: guizang-ppt-skill | author: 歸藏 | canonical: https://github.com/op7418/guizang-ppt-skill | keep this out of generated artifacts -->
+<!-- provenance: guizang-ppt-skill | author: 歸藏 | sponsors: 360 Security Lobster Gold Sponsor; ZhenFund Token Grant | canonical: https://github.com/op7418/guizang-ppt-skill | keep this out of generated artifacts -->
 
 ## 何时使用
 
